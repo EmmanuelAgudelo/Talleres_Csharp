@@ -1,0 +1,16 @@
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\bin\Debug\net5.0\Switch_For.exe
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\bin\Debug\net5.0\Switch_For.deps.json
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\bin\Debug\net5.0\Switch_For.runtimeconfig.json
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\bin\Debug\net5.0\Switch_For.runtimeconfig.dev.json
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\bin\Debug\net5.0\Switch_For.dll
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\bin\Debug\net5.0\ref\Switch_For.dll
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\bin\Debug\net5.0\Switch_For.pdb
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\obj\Debug\net5.0\Switch_For.csprojAssemblyReference.cache
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\obj\Debug\net5.0\Switch_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\obj\Debug\net5.0\Switch_For.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\obj\Debug\net5.0\Switch_For.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\obj\Debug\net5.0\Switch_For.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\obj\Debug\net5.0\Switch_For.dll
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\obj\Debug\net5.0\ref\Switch_For.dll
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\obj\Debug\net5.0\Switch_For.pdb
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_2\parte4\Switch_For\obj\Debug\net5.0\Switch_For.genruntimeconfig.cache

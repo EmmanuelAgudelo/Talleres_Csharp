@@ -1,0 +1,64 @@
+C:\Users\Usuario\algoritmos\algoritmos\bin\Debug\net5.0\algoritmos.exe
+C:\Users\Usuario\algoritmos\algoritmos\bin\Debug\net5.0\algoritmos.deps.json
+C:\Users\Usuario\algoritmos\algoritmos\bin\Debug\net5.0\algoritmos.runtimeconfig.json
+C:\Users\Usuario\algoritmos\algoritmos\bin\Debug\net5.0\algoritmos.runtimeconfig.dev.json
+C:\Users\Usuario\algoritmos\algoritmos\bin\Debug\net5.0\algoritmos.dll
+C:\Users\Usuario\algoritmos\algoritmos\bin\Debug\net5.0\ref\algoritmos.dll
+C:\Users\Usuario\algoritmos\algoritmos\bin\Debug\net5.0\algoritmos.pdb
+C:\Users\Usuario\algoritmos\algoritmos\obj\Debug\net5.0\algoritmos.csproj.AssemblyReference.cache
+C:\Users\Usuario\algoritmos\algoritmos\obj\Debug\net5.0\algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\algoritmos\algoritmos\obj\Debug\net5.0\algoritmos.AssemblyInfoInputs.cache
+C:\Users\Usuario\algoritmos\algoritmos\obj\Debug\net5.0\algoritmos.AssemblyInfo.cs
+C:\Users\Usuario\algoritmos\algoritmos\obj\Debug\net5.0\algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\algoritmos\algoritmos\obj\Debug\net5.0\algoritmos.dll
+C:\Users\Usuario\algoritmos\algoritmos\obj\Debug\net5.0\ref\algoritmos.dll
+C:\Users\Usuario\algoritmos\algoritmos\obj\Debug\net5.0\algoritmos.pdb
+C:\Users\Usuario\algoritmos\algoritmos\obj\Debug\net5.0\algoritmos.genruntimeconfig.cache
+C:\Users\Usuario\Taller 1\Ejercicio 1\bin\Debug\net5.0\algoritmos.exe
+C:\Users\Usuario\Taller 1\Ejercicio 1\bin\Debug\net5.0\algoritmos.deps.json
+C:\Users\Usuario\Taller 1\Ejercicio 1\bin\Debug\net5.0\algoritmos.runtimeconfig.json
+C:\Users\Usuario\Taller 1\Ejercicio 1\bin\Debug\net5.0\algoritmos.runtimeconfig.dev.json
+C:\Users\Usuario\Taller 1\Ejercicio 1\bin\Debug\net5.0\algoritmos.dll
+C:\Users\Usuario\Taller 1\Ejercicio 1\bin\Debug\net5.0\ref\algoritmos.dll
+C:\Users\Usuario\Taller 1\Ejercicio 1\bin\Debug\net5.0\algoritmos.pdb
+C:\Users\Usuario\Taller 1\Ejercicio 1\obj\Debug\net5.0\algoritmos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Taller 1\Ejercicio 1\obj\Debug\net5.0\algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Taller 1\Ejercicio 1\obj\Debug\net5.0\algoritmos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Taller 1\Ejercicio 1\obj\Debug\net5.0\algoritmos.AssemblyInfo.cs
+C:\Users\Usuario\Taller 1\Ejercicio 1\obj\Debug\net5.0\algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Taller 1\Ejercicio 1\obj\Debug\net5.0\algoritmos.dll
+C:\Users\Usuario\Taller 1\Ejercicio 1\obj\Debug\net5.0\ref\algoritmos.dll
+C:\Users\Usuario\Taller 1\Ejercicio 1\obj\Debug\net5.0\algoritmos.pdb
+C:\Users\Usuario\Taller 1\Ejercicio 1\obj\Debug\net5.0\algoritmos.genruntimeconfig.cache
+C:\Users\Usuario\Taller 1\Ejercicio 2\bin\Debug\net5.0\algoritmos.exe
+C:\Users\Usuario\Taller 1\Ejercicio 2\bin\Debug\net5.0\algoritmos.deps.json
+C:\Users\Usuario\Taller 1\Ejercicio 2\bin\Debug\net5.0\algoritmos.runtimeconfig.json
+C:\Users\Usuario\Taller 1\Ejercicio 2\bin\Debug\net5.0\algoritmos.runtimeconfig.dev.json
+C:\Users\Usuario\Taller 1\Ejercicio 2\bin\Debug\net5.0\algoritmos.dll
+C:\Users\Usuario\Taller 1\Ejercicio 2\bin\Debug\net5.0\ref\algoritmos.dll
+C:\Users\Usuario\Taller 1\Ejercicio 2\bin\Debug\net5.0\algoritmos.pdb
+C:\Users\Usuario\Taller 1\Ejercicio 2\obj\Debug\net5.0\algoritmos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Taller 1\Ejercicio 2\obj\Debug\net5.0\algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Taller 1\Ejercicio 2\obj\Debug\net5.0\algoritmos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Taller 1\Ejercicio 2\obj\Debug\net5.0\algoritmos.AssemblyInfo.cs
+C:\Users\Usuario\Taller 1\Ejercicio 2\obj\Debug\net5.0\algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Taller 1\Ejercicio 2\obj\Debug\net5.0\algoritmos.dll
+C:\Users\Usuario\Taller 1\Ejercicio 2\obj\Debug\net5.0\ref\algoritmos.dll
+C:\Users\Usuario\Taller 1\Ejercicio 2\obj\Debug\net5.0\algoritmos.pdb
+C:\Users\Usuario\Taller 1\Ejercicio 2\obj\Debug\net5.0\algoritmos.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\bin\Debug\net5.0\algoritmos.exe
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\bin\Debug\net5.0\algoritmos.deps.json
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\bin\Debug\net5.0\algoritmos.runtimeconfig.json
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\bin\Debug\net5.0\algoritmos.runtimeconfig.dev.json
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\bin\Debug\net5.0\algoritmos.dll
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\bin\Debug\net5.0\ref\algoritmos.dll
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\bin\Debug\net5.0\algoritmos.pdb
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\obj\Debug\net5.0\algoritmos.csprojAssemblyReference.cache
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\obj\Debug\net5.0\algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\obj\Debug\net5.0\algoritmos.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\obj\Debug\net5.0\algoritmos.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\obj\Debug\net5.0\algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\obj\Debug\net5.0\algoritmos.dll
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\obj\Debug\net5.0\ref\algoritmos.dll
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\obj\Debug\net5.0\algoritmos.pdb
+C:\Users\emman\OneDrive\Escritorio\ADSI - SENA\Talleres_Csharp\Taller_Algoritmos_1\Ejercicio 5\obj\Debug\net5.0\algoritmos.genruntimeconfig.cache
