@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio_12\\Ejercicio_12.csproj": {}
+    "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio 12\\Ejercicio_12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio_12\\Ejercicio_12.csproj": {
+    "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio 12\\Ejercicio_12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio_12\\Ejercicio_12.csproj",
+        "projectUniqueName": "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio 12\\Ejercicio_12.csproj",
         "projectName": "Ejercicio_12",
-        "projectPath": "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio_12\\Ejercicio_12.csproj",
+        "projectPath": "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio 12\\Ejercicio_12.csproj",
         "packagesPath": "C:\\Users\\emman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio_12\\obj\\",
+        "outputPath": "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio 12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emman\\AppData\\Roaming\\NuGet\\NuGet.Config"

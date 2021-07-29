@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio_10\\Ejercicio_10.csproj",
+      "projectUniqueName": "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio 10\\Ejercicio_10.csproj",
       "projectName": "Ejercicio_10",
-      "projectPath": "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio_10\\Ejercicio_10.csproj",
+      "projectPath": "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio 10\\Ejercicio_10.csproj",
       "packagesPath": "C:\\Users\\emman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio_10\\obj\\",
+      "outputPath": "C:\\Users\\emman\\OneDrive\\Escritorio\\ADSI - SENA\\Talleres_Csharp\\Taller_Algoritmos_2\\parte2\\Ejercicio 10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emman\\AppData\\Roaming\\NuGet\\NuGet.Config"
