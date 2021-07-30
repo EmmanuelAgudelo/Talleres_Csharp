@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\bin\Debug\net5.0\ejercicio13.exe
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\bin\Debug\net5.0\ejercicio13.deps.json
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\bin\Debug\net5.0\ejercicio13.runtimeconfig.json
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\bin\Debug\net5.0\ejercicio13.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\bin\Debug\net5.0\ejercicio13.dll
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\bin\Debug\net5.0\ref\ejercicio13.dll
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\bin\Debug\net5.0\ejercicio13.pdb
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\obj\Debug\net5.0\ejercicio13.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\obj\Debug\net5.0\ejercicio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\obj\Debug\net5.0\ejercicio13.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\obj\Debug\net5.0\ejercicio13.AssemblyInfo.cs
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\obj\Debug\net5.0\ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\obj\Debug\net5.0\ejercicio13.dll
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\obj\Debug\net5.0\ref\ejercicio13.dll
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\obj\Debug\net5.0\ejercicio13.pdb
+C:\Users\ACER\source\repos\parte2\ejercicio13\ejercicio13\obj\Debug\net5.0\ejercicio13.genruntimeconfig.cache

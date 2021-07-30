@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\bin\Debug\net5.0\ejercicio14.exe
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\bin\Debug\net5.0\ejercicio14.deps.json
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\bin\Debug\net5.0\ejercicio14.runtimeconfig.json
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\bin\Debug\net5.0\ejercicio14.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\bin\Debug\net5.0\ejercicio14.dll
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\bin\Debug\net5.0\ref\ejercicio14.dll
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\bin\Debug\net5.0\ejercicio14.pdb
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\obj\Debug\net5.0\ejercicio14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\obj\Debug\net5.0\ejercicio14.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\obj\Debug\net5.0\ejercicio14.AssemblyInfo.cs
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\obj\Debug\net5.0\ejercicio14.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\obj\Debug\net5.0\ejercicio14.dll
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\obj\Debug\net5.0\ref\ejercicio14.dll
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\obj\Debug\net5.0\ejercicio14.pdb
+C:\Users\ACER\source\repos\parte2\ejercicio14\ejercicio14\obj\Debug\net5.0\ejercicio14.genruntimeconfig.cache
